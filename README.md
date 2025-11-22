@@ -26,11 +26,13 @@
   
   **PROGRAMMING LANGUAGES**
   <br/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=cs,php,python,js,html,css&theme=dark" />
 
   <br/><br/>
 
   **FRAMEWORKS**
+  <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=flask,bootstrap,nodejs&theme=dark" />
 
@@ -38,11 +40,13 @@
 
   **DATABASES**
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mssql&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=dark" />
 
   <br/><br/>
 
   **SOFTWARE & TOOLS**
+  <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
   <br/>
@@ -66,4 +70,8 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayreall&bg_color=0d1117&color=ffffff&line=2f81f7&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=100&section=footer" width="100%"/>
 </div>
