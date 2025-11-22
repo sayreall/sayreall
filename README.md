@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=220&section=header&text=CYRIL%20SAN%20ANTONIO&fontSize=70&fontAlignY=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=220&section=header&text=John%20Cyril%20San%20Antonio&fontSize=40&fontAlignY=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=18&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+BSIT+Student;Building+Scalable+Backend+Systems;Python+%26+JavaScript+Specialist" alt="Typing SVG" />
