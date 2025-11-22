@@ -44,7 +44,7 @@
 
 
 
-###  About Me
+### 👨‍💻 About Me
 
 
 
@@ -68,13 +68,13 @@
 
       <td align="left">
 
-         <b>Currently Learning:</b> Flask, Python (Backend) & JS<br/>
+        🌱 <b>Currently Learning:</b> Flask, Python (Backend) & JS<br/>
 
-         <b>Working On:</b> Strengthening my portfolio<br/>
+        🔭 <b>Working On:</b> Strengthening my portfolio<br/>
 
-         <b>2025 Goal:</b> Mastering Full-Stack & Cloud Basics<br/>
+        🥅 <b>2025 Goal:</b> Mastering Full-Stack & Cloud Basics<br/>
 
-         <b>Fun Fact:</b> I love open source!
+        ⚡ <b>Fun Fact:</b> I love open source!
 
       </td>
 
@@ -90,7 +90,7 @@
 
 
 
-###  Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 
 
@@ -110,7 +110,7 @@
 
 
 
-###  GitHub Analytics
+### 📊 GitHub Analytics
 
 
 
