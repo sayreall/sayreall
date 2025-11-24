@@ -34,7 +34,7 @@
   **FRAMEWORKS**
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=flask,bootstrap,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,bootstrap,nodejs,react,laravel,tailwind&theme=dark" />
 
   <br/><br/>
 
